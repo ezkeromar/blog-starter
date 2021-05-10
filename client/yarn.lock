@@ -2348,6 +2348,11 @@ core-js-pure@^3.0.0:
   resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.4.1.tgz#483dbc687016b45cab4c185cf998c2c59e772c2a"
   integrity sha512-q3FgAYoFGS0LaqV4K7oMsJUpGU7Ud3IR6D2qcu7BAvg0OQPuwakrdNlal+0Zsm3bUPBpI5i/r9C6W3uQCcCrSw==
 
+core-js@^2.6.5:
+  version "2.6.12"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-2.6.12.tgz#d9333dfa7b065e347cc5682219d6f690859cc2ec"
+  integrity sha512-Kb2wC0fvsWfQrgk8HU5lW6U/Lcs8+9aaYcy4ZFc6DDlo4nZ7n70dEgE5rtR0oG6ufKDUnrwfWL1mXR5ljDatrQ==
+
 core-js@^3.3.2:
   version "3.4.1"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.4.1.tgz#76dd6828412900ab27c8ce0b22e6114d7ce21b18"
@@ -4843,10 +4848,10 @@ lodash.uniq@^4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
-lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.3:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+lodash@^4.17.11, lodash@^4.17.12, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.21, lodash@^4.17.3:
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
 log-symbols@^2.2.0:
   version "2.2.0"
@@ -7997,6 +8002,16 @@ vue@^2.6.10:
   version "2.6.10"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
   integrity sha512-ImThpeNU9HbdZL3utgMCq0oiMzAkt1mcgy3/E6zWC/G6AaQoeuFdsl9nDhTDU3X1R6FK7nsIUuRACVcjI+A2GQ==
+
+vuex-router-sync@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/vuex-router-sync/-/vuex-router-sync-5.0.0.tgz#1a225c17a1dd9e2f74af0a1b2c62072e9492b305"
+  integrity sha512-Mry2sO4kiAG64714X1CFpTA/shUH1DmkZ26DFDtwoM/yyx6OtMrc+MxrU+7vvbNLO9LSpgwkiJ8W+rlmRtsM+w==
+
+vuex@^3.1.2:
+  version "3.6.2"
+  resolved "https://registry.yarnpkg.com/vuex/-/vuex-3.6.2.tgz#236bc086a870c3ae79946f107f16de59d5895e71"
+  integrity sha512-ETW44IqCgBpVomy520DT5jf8n0zoCac+sxWnn+hMe/CzaSejb/eVw2YToiXYX+Ex/AuHHia28vWTq4goAexFbw==
 
 watchpack@^1.6.0:
   version "1.6.0"
